@@ -1,10 +1,10 @@
 package com.cg.DayFive.Encapsulation;
 
 public class Encapsule {
-	String name;
-	int age;
-	int salary;
-	long mobile;
+	private String name;
+	private int age;
+	private int salary;
+	private long mobile;
 	public Encapsule() {
 		super();
 		// TODO Auto-generated constructor stub
