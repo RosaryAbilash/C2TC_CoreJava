@@ -1,4 +1,4 @@
-package com.cg.DayFive;
+package com.cg.DayThree;
 
 public class Constructor {
 	String name;

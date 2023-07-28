@@ -1,4 +1,4 @@
-package com.cg.DayFive.Encapsulation;
+package com.cg.DayThree;
 
 public class Encapsule {
 	private String name;
