@@ -6,8 +6,8 @@ public class ProtectedTest extends Protected{
 
 	public static void main(String[] args) {
 		Protected p = new Protected();
-		System.out.println(p.protectedData);
-		p.protectedMessage();
+//		System.out.println(p.protectedData);
+//		p.protectedMessage();
 	}
 
 }
